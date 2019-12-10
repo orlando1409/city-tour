@@ -1,0 +1,11 @@
+language: java
+sudo: false
+install: true
+
+script:
+  - ./runAnalysis.sh
+
+cache:
+  directories:
+    - '$HOME/.m2/repository'
+    - '$HOME/.sonar/cache'
