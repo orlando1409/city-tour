@@ -16,3 +16,5 @@ Only the master branch and PR are analyzed.
 
 * https://rules.sonarsource.com/java/RSPEC-2255 - Writing cookies is security-sensitive
 * https://rules.sonarsource.com/java/RSPEC-4790 - Hashing data is security-sensitive
+
+##
